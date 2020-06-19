@@ -1,4 +1,4 @@
-baseURL = "https://avgupt-blog.netlify.com"
+baseURL = "https://avgupt-blog.netlify.app"
 languageCode = "en-us"
 paginate = 6
 summaryLength = "10"
