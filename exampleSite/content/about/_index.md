@@ -5,4 +5,4 @@ description: Author description
 image: ''
 
 ---
-I am a computer science undergraduate at IIIT Delhi. 
+I am a Computer Science undergraduate at IIIT Delhi. 
