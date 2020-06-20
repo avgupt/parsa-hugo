@@ -2,6 +2,7 @@
 title: About
 date: 
 description: Author description
-image: images/avgupt.jpeg
+image: ''
 
 ---
+I am a computer science undergraduate at IIIT Delhi. 
