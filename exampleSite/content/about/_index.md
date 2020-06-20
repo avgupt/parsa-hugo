@@ -2,6 +2,6 @@
 title: About
 date: 
 description: Author description
-image: images/avgupt.jpg
+image: images/avgupt.jpeg
 
 ---
