@@ -8,7 +8,7 @@ title = "My First Interactive Project!"
 type = "post"
 
 +++
-In my first semester, I worked on a project new to the world. Sounds cool, right? I had a course Prototyping Interactive Systems. The course motivates students to think out of the box and design, prototype and implement interactive systems.
+In my first semester, I came up with an idea which was new to the world. Sounds cool, right? I had a course Prototyping Interactive Systems. The course motivates students to think out of the box and design, prototype and implement interactive systems.
 
 For the major project of this course, we were told to implement an interactive project which is unique in this world. That's right! The first year IIIT Delhi students were told to come up with ideas that people have never even thought of. The journey was scary at first, but it eventually became more engaging and interesting. It was a group project, which made it more fun!! Let me walk you through the process :)
 
